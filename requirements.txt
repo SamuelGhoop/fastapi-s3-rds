@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+boto3
+pymysql
+sqlalchemy
+python-multipart
+mangum
