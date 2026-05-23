@@ -166,7 +166,7 @@ docker push <ACCOUNT_ID>.dkr.ecr.us-east-1.amazonaws.com/fastapi-s3-rds:latest
 ### 5. Probar
 
 Abrir la URL de la función Lambda + `/docs` para acceder al Swagger UI.
-
+Se espera la misma respuesta
 ---
 
 ## Variables de entorno
